@@ -1,16 +1,25 @@
-### Hi there 👋
+<img align="right" alt="Coding" width="400" src="./my-profile-picture.PNG">
+<h1 align="center">Drew Ballard  😄</h1>
 
-<!--
-**dballa22/dballa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Full Time Software Engineering Student 🧠</h3>
 
-Here are some ideas to get you started:
+<p>Passionate about all things tech.</p>
+<p>I love learning and working with other people.</p>
+<p>I truly believe you're only as smart as you want to be.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3>Proficiencies 🛠️</h3>
+<p>Currently focusing on C.R.U.D application development, as well as database analysis and development.</p>
+
+<p>Primarly Languages: Java, SQL</p>
+
+<p>Secondary Languages: Python, JavaScript, HTML/CSS</p>
+
+---
+
+<h3>Contact 📞</h3>
+
+- Email: drewballard22@gmail.com
+- Phone Number: 817-917-2343
+- LinkedIn: https://www.linkedin.com/in/richard-ballard-04aa8a1b9/
