@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="./my-profile-picture.PNG">
+<img align="right" alt="Coding" width="400" src="./my-profile-picture.png">
 <h1 align="center">Drew Ballard  😄</h1>
 
 <h3>Full Time Software Engineering Student 🧠</h3>
